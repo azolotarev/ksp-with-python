@@ -1,14 +1,13 @@
 ## Description
 
 Welcome to my rocket playground, where rockets are subject for rapid unscheduled disassembly due to various reasons. But sometimes, they land autonomously, hover, reach low and high orbits, fly in circles and do other cool stuff.
-I'm trying to keep the game realistic enough, but I'm not too obsessed with realism. KSP is just a game/simulator and not a sophisticated physics engine for supercomputers. If there's an easy way to improve the KSP's physics (i.e. with mods), I'm all for it, but don't expect heavy maths here.
+
+I'm trying to keep the game realistic. Expect some math here.
 
 
 ## Scripts
 - [x] hover-demo.py - just a proof of concept that it's possible to hover with kRPC
-- [x] 10k-and-land.py - launches the rocket to the specified altitude and performs the suicide burn
-- [ ] to LEO and land - Falcon 9 style mission to Low Earth Orbit. 1st stage returns back to the launch complex and 2nd stage delivers the payload to orbit.
-- [ ] to GEO and land at the barge
+- [x] landing.py - launches the rocket to the specified altitude and performs the suicide burn
 
 
 ## [kRPC](https://krpc.github.io/krpc/)
@@ -23,8 +22,9 @@ Kerbal Space Program is a space flight simulation video game developed and publi
 
 ## Mods
 * [kRPC-0.4.8](https://github.com/krpc/krpc)
-* [TweakScale](https://www.curseforge.com/kerbal/ksp-mods/tweakscale) - parts resizing
+* [TweakScale](https://www.curseforge.com/kerbal/ksp-mods/tweakscale)
 * [RealSolarSystem](https://forum.kerbalspaceprogram.com/index.php?/topic/177216-161-real-solar-system-v162-19-apr-2019/) - converts the Kerbin solar system into our home solar system
+* [Realism Overhaul](https://github.com/KSP-RO/RealismOverhaul/wiki) - is not yet installed, but will be.
 
 
-**Inspired by SpaceX**
+**Inspired by [SpaceX](https://www.youtube.com/watch?v=bvim4rsNHkQ)**
