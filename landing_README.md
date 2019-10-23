@@ -4,7 +4,7 @@ Launches the rocket to 5,000 meters and lands somewhere near the launchpad.
 Please note that this is a work in progress, I'm not satisfied with the script's performance.
 
 ## Demonstration
-There'll be a link to YouTube video or a gif.
+![Demo](https://media.giphy.com/media/ZaX7mfjQ2tkVXFigdA/giphy.gif)
 
 ## Suicide Burn
 **Suicide burn** (also known as **hoverslam**) - a method of landing a rocket vehicle using rocket thrust,
